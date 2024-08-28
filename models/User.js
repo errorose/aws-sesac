@@ -18,4 +18,3 @@ module.exports = (sequelize) => {
         },
     });
 };
-// 주석 안녕 ㅇㅇ
